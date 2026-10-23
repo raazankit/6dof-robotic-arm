@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# OS & Editor files
+.DS_Store
+.vscode/
+
+# Build artifacts & logs
+build/
+devel/
+*.log
+
+# Heavy media / datasets (keep large test videos local)
+*.mp4
+*.avi
