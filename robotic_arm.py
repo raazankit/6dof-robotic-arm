@@ -310,3 +310,4 @@ cv2.destroyAllWindows()
 udp_sock.close()
 if esp32 and esp32.is_open:
     esp32.close()
+    
